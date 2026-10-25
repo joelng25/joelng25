@@ -29,7 +29,7 @@ A full-stack task manager combining a C++ REST API with a React interface.
 
 **C++17 · React · TypeScript · Vite · Docker**
 
-[View repository →](https://github.com/joelng25/Task-Tracker)
+[View repository →](https://github.com/joelng25/Task-Tracker) · [Live demo →](https://task-tracker-web-4uqz.onrender.com)
 
 </td>
 <td width="50%" valign="top">
