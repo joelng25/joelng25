@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joel Novio García
+# Joel Novio Garcia
 
 ### Computer Engineering · UPC, Barcelona
 
