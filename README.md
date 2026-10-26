@@ -23,20 +23,20 @@ Building with **C++**, **Python** and **TypeScript** — from terminal tools to 
 <tr>
 <td width="50%" valign="top">
 
-### Pulso Ciudadano
+### Task Tracker
 
-A live electoral opinion poll with updated results and regional participation charts.
+Manage task progress with a React interface and C++ API, atomic JSON persistence and API regression tests.
 
-**React · Vite · PostgreSQL · Recharts**
+**C++17 · React · TypeScript · Vite · Docker**
 
-[View repository →](https://github.com/joelng25/pulso-ciudadano) · [Live demo →](https://pulso-ciudadano-green.vercel.app)
+[View repository →](https://github.com/joelng25/Task-Tracker) · [Live demo →](https://task-tracker-web-4uqz.onrender.com)
 
 </td>
 <td width="50%" valign="top">
 
 ### Lingua Check
 
-A Chrome extension for real-time spelling and grammar checking on websites using LanguageTool.
+Catch spelling and grammar errors while writing online, with sensitive-field exclusions and stale-response protection.
 
 **TypeScript · Chrome Manifest V3 · LanguageTool API**
 
@@ -47,13 +47,13 @@ A Chrome extension for real-time spelling and grammar checking on websites using
 <tr>
 <td width="50%" valign="top">
 
-### Task Tracker
+### Pulso Ciudadano
 
-A full-stack task manager combining a C++ REST API with a React interface.
+An opinion-poll prototype with regional charts. Privacy hardening is staged for review; the deployed service is not yet verified.
 
-**C++17 · React · TypeScript · Vite · Docker**
+**React · Vite · PostgreSQL · Recharts**
 
-[View repository →](https://github.com/joelng25/Task-Tracker) · [Live demo →](https://task-tracker-web-4uqz.onrender.com)
+[View repository →](https://github.com/joelng25/pulso-ciudadano) · [Privacy improvements →](https://github.com/joelng25/pulso-ciudadano/pull/3)
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +84,7 @@ A command-line task manager with JSON storage and a GoogleTest suite.
 
 ### Basic Calculator
 
-A desktop calculator with a safe arithmetic expression parser.
+Evaluate arithmetic safely, reuse calculation history and correct errors without losing the expression.
 
 **Python · Tkinter · Automated tests**
 
@@ -95,6 +95,13 @@ A desktop calculator with a safe arithmetic expression parser.
 </table>
 
 **Also built:** [Number Guessing Game CLI](https://github.com/joelng25/Number-Guessing-Game-CLI) — a C++ terminal game with difficulty levels, hints and highscores.
+
+## Proof, not just badges
+
+- [Task Tracker API tests](https://github.com/joelng25/Task-Tracker/actions/workflows/api.yml) · [Live demo](https://task-tracker-web-4uqz.onrender.com) (Render may need time to wake; demo data is temporary).
+- [Lingua Check regression tests](https://github.com/joelng25/lingua-check/actions/workflows/regressions.yml).
+- [Calculator screenshot](https://github.com/joelng25/basic-calculator/blob/main/docs/calculator.png) · [Calculator tests](https://github.com/joelng25/basic-calculator/actions).
+- [Task Tracker CLI screenshot](https://github.com/joelng25/Task-Tracker-CLI/tree/main/docs).
 
 ## Toolbox
 
